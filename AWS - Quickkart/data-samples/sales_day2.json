@@ -1,0 +1,38 @@
+[
+  {
+    "order_id": 1006,
+    "order_date": "2025-06-21",
+    "customer_name": "Ruchi Jain",
+    "product": "Tablet",
+    "category": "Electronics",
+    "amount": 25000,
+    "region": "North"
+  },
+  {
+    "order_id": 1007,
+    "order_date": "2025-06-21",
+    "customer_name": "Karan Mehta",
+    "product": "Pen",
+    "category": "Stationery",
+    "amount": 50,
+    "region": "East"
+  },
+  {
+    "order_id": 1008,
+    "order_date": "2025-06-21",
+    "customer_name": "Farhan Qureshi",
+    "product": "Charger",
+    "category": "Electronics",
+    "amount": 700,
+    "region": "South"
+  },
+  {
+    "order_id": 1009,
+    "order_date": "2025-06-21",
+    "customer_name": "Neha Menon",
+    "product": "Desk Lamp",
+    "category": "Home Decor",
+    "amount": 1800,
+    "region": "West"
+  }
+]

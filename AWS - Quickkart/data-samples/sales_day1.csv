@@ -1,0 +1,6 @@
+order_id,order_date,customer_name,product,category,amount,region
+1001,2025-06-20,Amit Sharma,Phone,Electronics,15000,North
+1002,2025-06-20,Sneha Iyer,Laptop,Electronics,55000,West
+1003,2025-06-20,Ravi Patel,Notebook,Stationery,80,South
+1004,2025-06-20,Meena Rathi,Book,Stationery,120,East
+1005,2025-06-20,Manoj Das,Mouse,Electronics,600,North
