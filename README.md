@@ -1,4 +1,4 @@
-# 🧊 Serverless Data Lakehouse on AWS – QuickKart Sales Insights
+# 🧊 Serverless Data Lakehouse on AWS – E-Commerce Sales Insights
 
 This project demonstrates a complete **serverless data lakehouse architecture** using AWS services.  
 It starts from **raw data in S3** and ends with a fully functional **dashboard in QuickSight**.
@@ -7,7 +7,7 @@ It starts from **raw data in S3** and ends with a fully functional **dashboard i
 
 ## 📦 Use Case
 
-Build a simplified eCommerce pipeline for QuickKart:
+Build a simplified eCommerce pipeline for the use case:
 - Ingest sales data (CSV + JSON)
 - Clean and transform it
 - Run SQL queries
